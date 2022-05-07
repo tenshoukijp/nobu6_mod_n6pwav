@@ -1,0 +1,4 @@
+LIBRARY n6pwav
+EXPORTS
+    DllMain=d_DllMain @ 1
+    LoadWaveResource=d_LoadWaveResource @ 2
